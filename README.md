@@ -24,27 +24,24 @@ To run the Feedback.php project, you need to have the following:
 
 1. Configure your web server to point to the project directory. For example, if you're using Apache, you can create a virtual host or place the project files in the web server's document root.
 
-2.Ensure that the web server has write permissions for the feedback.txt file. This file will store the submitted feedback.
+2. Ensure that the web server has write permissions for the feedback.txt file. This file will store the submitted feedback.
 
-:hammer:Usage
+<h2> :hammer:Usage </h2>
 1. Access the feedback form through your web browser using the appropriate URL. For example, if you're running the project locally, the URL might be http://localhost/feedback.php.
 
 2. Fill in the required fields (name, email, and message) and click the "Submit" button to submit the feedback.
 
 3. The feedback will be stored in the feedback.txt file located in the project directory.
 
-Customization
+<h2>🍩:Customization</h2>
 1. You can customize the design and layout of the feedback form by modifying the HTML and CSS code in feedback.php.
 2. If you want to store the feedback in a different format or location, you can update the code in submit_feedback.php accordingly.
 
 
-License
+<h2>🔥: License </h2>
 This project is licensed under the MIT License.
 Feel free to modify and adapt the code according to your needs. Contributions are welcome!
 
 
-You can copy this README template and modify it according to your project's specific details, such as installation instructions, usage guidelines, and customization options. Make sure to update the sections with relevant information specific to your project.
-
-Once you have created or updated the README file, you can commit it to your GitHub repository and it will be displayed on the repository's main page, providing an overview and instructions for other users who visit your project.
 
 
