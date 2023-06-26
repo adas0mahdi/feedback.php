@@ -41,8 +41,15 @@ To run the Feedback.php project, you need to have the following:
 <h2>🔥: License </h2>
 This project is licensed under the MIT License.
 Feel free to modify and adapt the code according to your needs. Contributions are welcome!
-
-![Screenshot](lectures\img/feedback1)
+<br>
+<br>
+<br>
+ 
+. 
+![Screenshot](./img/feedback1.png)
+![Screenshot](./img/feedback2.png)
+![Screenshot](./img/feedback3.png)
+![Screenshot](./img/feedback4.png)
 
 
 
