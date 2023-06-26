@@ -17,7 +17,7 @@ To run the Feedback.php project, you need to have the following:
 
 ## Installation
 
-1. Clone the repository to your local machine or hosting environment:
+- Clone the repository to your local machine or hosting environment:
 
    ```shell
    git clone https://github.com/adas0mahdi/feedback.php.git
@@ -26,7 +26,7 @@ To run the Feedback.php project, you need to have the following:
 
 2.Ensure that the web server has write permissions for the feedback.txt file. This file will store the submitted feedback.
 
-Usage
+:hammer:Usage
 1. Access the feedback form through your web browser using the appropriate URL. For example, if you're running the project locally, the URL might be http://localhost/feedback.php.
 
 2. Fill in the required fields (name, email, and message) and click the "Submit" button to submit the feedback.
